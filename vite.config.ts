@@ -8,7 +8,7 @@ export default defineConfig({
     open:true,
     port:3001,
   },
-  base: "/portfolio_websitenew/",
+  base: "/vedhamsh-portfolionew/",
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
